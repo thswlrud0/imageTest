@@ -20,13 +20,14 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
     public class PictureTest extends Activity implements View.OnClickListener{
+
         //사진으로 전송시 되돌려 받을 번호
         static int REQUEST_PICTURE=1;
         //앨범으로 전송시 돌려받을 번호
         static int REQUEST_PHOTO_ALBUM=2;
         //첫번째 이미지 아이콘 샘플 이다.
         static String SAMPLEIMG="ic_launcher.png";
-
+         hdhd
         ImageView iv;
       //  Dialog dialog;
 
