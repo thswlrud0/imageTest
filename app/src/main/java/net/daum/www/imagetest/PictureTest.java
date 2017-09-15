@@ -27,7 +27,7 @@ import android.widget.Toast;
         static int REQUEST_PHOTO_ALBUM=2;
         //첫번째 이미지 아이콘 샘플 이다.
         static String SAMPLEIMG="ic_launcher.png";
-         hdhd
+/* hello test*/
         ImageView iv;
       //  Dialog dialog;
 
