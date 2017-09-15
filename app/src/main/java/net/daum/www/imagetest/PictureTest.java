@@ -20,7 +20,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
     public class PictureTest extends Activity implements View.OnClickListener{
-//asasasas
+//asdf
         //사진으로 전송시 되돌려 받을 번호
         static int REQUEST_PICTURE=1;
         //앨범으로 전송시 돌려받을 번호
