@@ -26,7 +26,7 @@ import android.widget.Toast;
         //앨범으로 전송시 돌려받을 번호
         static int REQUEST_PHOTO_ALBUM=2;
         //첫번째 이미지 아이콘 샘플 이다.
-asdfasdfasdf
+        static int hello;
         static String Hello;
         ImageView iv;
       //  Dialog dialog;
